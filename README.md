@@ -10,6 +10,82 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 ## Roadmap
 >RD
 ## 📒Resources
+1. General Development Skills
+* VB.NET / C# Basics
+* GIT - version control (GitHub, GitLab)
+* LINQ Basics
+* Algorithms and data structures
+2. UiPath Studio IDE (basics)
+* Logging
+* Workflow types
+* Basic debug features
+* Process building logic
+* Variables & Activities Interaction
+* Git Integration
+3. Selectors
+* Recording
+* Object Repository & UI Libraries
+* Win32 / Web selectors logic
+* UiExplorer & UIFramework
+* Dynamic selectors
+4. User Inputs
+* Input Activities
+* Callout activities
+* User events / Triggers
+5. Web automation (basics)
+* Browser Activities interaction
+* Browser extentions
+7. Office 365 integration
+* Word Automation Activities
+* Excel Automation Activities
+* Sharepoint Automation Activities
+* Outlook interaction
+9. Mail Interaction
+* Mail Protocols knowledge
+* Mail Activities interaction
+11. Image Automation (basics)
+* Image Activities Interaction
+* Citrix / RDP automation
+13. Project Architecture (Basics)
+* Project lifecycle
+* Vendor best practice
+* State machine
+* Robotic Enterprice Framework
+* Logging practice / Activities
+15. UiPath Studio IDE (details)
+* Package manager
+* Code Analyzer
+* Picture in Picture
+* Orchestrator API
+17. Programming in UiPath Studio
+* Invoke code
+* Invoke method
+* Data Table Interactions
+19. Orchestrator Process Management
+* Process logs
+* Process schedule
+* Process data storage
+* Attended / Unattended robot connection
+* Orchestrator Insights
+21. Data Scraping
+* Screen scraping
+* Metadata processing
+23. OCR Data Interaction
+* OCR engines
+* Google Vision API interaction
+* OCR screen interactions
+25. Web Automation (details)
+26. Image Automation (details)
+27. External Instruments
+28. Task Capture Instruments
+29. Web Requests
+30. Project Architecture (details)
+31. Orchestrator Administration
+32. Process Testing
+33. Database Interactions
+34. CI/CD
+35. Reporting Tools Integration
+36. Customize Studio
 
 ## ✏️Contribution
 We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
