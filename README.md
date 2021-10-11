@@ -10,82 +10,142 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 ## Roadmap
 >RD
 ## 📒Resources
-1. General Development Skills
+**1. General Development Skills**
 * VB.NET / C# Basics
 * GIT - version control (GitHub, GitLab)
 * LINQ Basics
 * Algorithms and data structures
-2. UiPath Studio IDE (basics)
+
+**2. UiPath Studio IDE (basics)**
 * Logging
 * Workflow types
-* Basic debug features
-* Process building logic
-* Variables & Activities Interaction
-* Git Integration
-3. Selectors
-* Recording
-* Object Repository & UI Libraries
-* Win32 / Web selectors logic
-* UiExplorer & UIFramework
-* Dynamic selectors
-4. User Inputs
-* Input Activities
-* Callout activities
-* User events / Triggers
-5. Web automation (basics)
-* Browser Activities interaction
-* Browser extentions
-7. Office 365 integration
-* Word Automation Activities
-* Excel Automation Activities
-* Sharepoint Automation Activities
-* Outlook interaction
-9. Mail Interaction
+* [Basic debug features](https://docs.uipath.com/studio/docs/about-debugging)
+* [Process building logic](https://docs.uipath.com/studio/docs/creating-basic-process)
+* [Variables & Activities Interaction](https://docs.uipath.com/studio/docs/types-of-variables)
+* [Git Integration](https://docs.uipath.com/studio/docs/managing-projects-git)
+
+**3. Selectors**
+* [Recording](https://docs.uipath.com/studio/docs/about-recording)
+* [Object Repository](https://docs.uipath.com/studio/docs/about-object-repository) & UI Libraries
+* [Win32 / Web selectors logic](https://docs.uipath.com/studio/docs/about-selectors)
+* [UiExplorer & UIFramework](https://docs.uipath.com/studio/docs/uipath-explorer)
+* [Dynamic selectors](https://docs.uipath.com/studio/docs/dynamic-selectors)
+
+**4. User Inputs**
+* [Input Activities](https://docs.uipath.com/activities/docs/input-dialog)
+* [Callout activities](https://docs.uipath.com/activities/docs/callout-scope)
+* [User events / Triggers](https://docs.uipath.com/activities/docs/user-events-ui-automation)
+
+**5. Web automation (basics)**
+* [Browser Activities interaction](https://docs.uipath.com/activities/docs/web-browsing)
+* [Browser extentions](https://docs.uipath.com/studio/docs/about-extensions)
+
+**6. Office 365 integration**
+* [Word Automation Activities](https://docs.uipath.com/activities/docs/about-the-word-activities-pack)
+* [Excel Automation Activities](https://docs.uipath.com/activities/docs/about-the-excel-activities-pack)
+* [Sharepoint Automation Activities](https://marketplace.uipath.com/listings/sharepoint-custom-activities-package)
+* [Outlook interaction](https://www.uipath.com/kb-articles/outlook-email-automation)
+
+**7. Mail Interaction**
 * Mail Protocols knowledge
 * Mail Activities interaction
-11. Image Automation (basics)
+
+**8. Image Automation (basics)**
 * Image Activities Interaction
 * Citrix / RDP automation
-13. Project Architecture (Basics)
+
+**9. Project Architecture (Basics)**
 * Project lifecycle
 * Vendor best practice
 * State machine
 * Robotic Enterprice Framework
 * Logging practice / Activities
-15. UiPath Studio IDE (details)
+
+**10. UiPath Studio IDE (details)**
 * Package manager
 * Code Analyzer
 * Picture in Picture
 * Orchestrator API
-17. Programming in UiPath Studio
+
+**11. Programming in UiPath Studio**
 * Invoke code
 * Invoke method
 * Data Table Interactions
-19. Orchestrator Process Management
+
+**12. Orchestrator Process Management**
 * Process logs
 * Process schedule
 * Process data storage
 * Attended / Unattended robot connection
 * Orchestrator Insights
-21. Data Scraping
+
+**13. Data Scraping**
 * Screen scraping
 * Metadata processing
-23. OCR Data Interaction
+
+**14. OCR Data Interaction**
 * OCR engines
 * Google Vision API interaction
 * OCR screen interactions
-25. Web Automation (details)
-26. Image Automation (details)
-27. External Instruments
-28. Task Capture Instruments
-29. Web Requests
-30. Project Architecture (details)
-31. Orchestrator Administration
-32. Process Testing
-33. Database Interactions
-34. CI/CD
-35. Reporting Tools Integration
-36. Customize Studio
+
+**15. Web Automation (details)**
+* Web driver
+* Robot JavaScript SDK
+
+**16. Image Automation (details)**
+* RDP extention
+* Image accuracy interaction
+
+**17. External Instruments**
+* Google Workspace
+* SAP Scripting
+
+**18. Task Capture Instruments**
+* RDP extention
+* Image accuracy interaction
+
+**19. Web Requests**
+* HTTP/HTTPS
+* Orchestrator API
+* Swagger
+
+**20. Project Architecture (details)**
+* Digital Blueprint Creation
+* BPMN 2.0 flowchart process build
+* PDD / SDD best practice build
+
+**21. Orchestrator Administration**
+* Authentification setup
+* User management
+* Installation & Disaster recovery model
+* License policy
+
+**22. Process Testing**
+* Types of testing
+* Test logic creation
+* API testing
+* Environment testing
+* Vendor tests best-practice
+
+**23. Database Interactions**
+* MySQL integration
+* Windows SQL integrations
+* Entity UiPath Integrations
+
+**24. CI/CD**
+* Jenkins
+* Azure DevOps
+
+**25. Reporting Tools Integration**
+* Kibana
+* Tableau
+* Power BI
+* DataIKU
+
+**26. Customize Studio**
+* Custom activity from workflow
+* Custom activity via Visual Studio
+* Custom Code Analyzer Rule
 
 ## ✏️Contribution
 We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
