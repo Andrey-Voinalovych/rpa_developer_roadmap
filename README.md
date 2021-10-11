@@ -1,4 +1,4 @@
-# RPA DEVELOPER ROADMAP IN 2021 🤖
+# RPA DEVELOPER ROADMAP IN 2021 (UIPath) 🤖
 
 **Read this in:
 [Russian](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/README_Ru.md)**
