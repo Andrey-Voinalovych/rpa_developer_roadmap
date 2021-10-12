@@ -147,8 +147,12 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * [Custom activity via Visual Studio](https://docs.uipath.com/activities/docs/creating-a-custom-activity)
 * [Custom Code Analyzer Rule](https://docs.uipath.com/studio/docs/building-custom-rules)
 
+## 📑Certification
+
+
 ## ✏️Contribution
 We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
+
 ## 🎉Credits
 Become a contriburor!
 >We are very grateful to all those who help to develop this roadmap ideas, as well as financially. This guide was developed entirely on the idea and we appreciate your support.
