@@ -2,7 +2,8 @@
 [![Contributors](https://opencollective.com/rpa_developer_roadmap/tiers/say-thank-you/badge.svg?label=Contributors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
 [![Sponsors](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
 
-# RPA DEVELOPER ROADMAP IN 2021 (UIPath) 🤖
+# RPA DEVELOPER ROADMAP (UIPath) 🤖
+>Roadmap to becoming a RPA developer in 2021
 
 **Read this in:
 [Russian](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/README_Ru.md)**
