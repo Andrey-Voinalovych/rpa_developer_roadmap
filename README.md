@@ -155,10 +155,10 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 
 
 ## ✏️Contribution
-We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
+We support any ideas and additions! Please study [contribution guidelines](CONTRIBUTION.md) to standardize work with roadmap.
 
 ## 🎉Credits
-⭐️This repository will be updated by users and based on the prodict updates, so I suggest you mark it with an "Star" to visit again
+:star: This repository will be updated by users and based on the prodict updates, so I suggest you mark it with an "Star" to visit again
 
 __Become a contriburor!__
 >We are very grateful to all those who help to develop this roadmap ideas, as well as financially. This guide was developed entirely on the idea and we appreciate your support.
@@ -170,4 +170,4 @@ __Become a sponsor!__
 >
 [![Sponsor](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor.svg?avatarHeight=36?width=600?limit=7)](https://opencollective.com/rpa_developer_roadmap#support)
 ## 📎License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
