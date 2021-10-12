@@ -13,7 +13,7 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 **1. General Development Skills**
 * VB.NET / C# Basics
 * GIT - version control (GitHub, GitLab)
-* LINQ Basics
+* [LINQ Basics](https://www.tutorialsteacher.com/linq)
 * Algorithms and data structures
 
 **2. UiPath Studio IDE (basics)**
