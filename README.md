@@ -47,30 +47,30 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * [Outlook interaction](https://www.uipath.com/kb-articles/outlook-email-automation)
 
 **7. Mail Interaction**
-* Mail Protocols knowledge
-* Mail Activities interaction
+* [Mail Protocols knowledge](https://www.sciencedirect.com/topics/computer-science/common-protocol#:~:text=There%20are%20three%20common%20protocols,used%20for%20accessing%20electronic%20mailboxes.)
+* [Mail Activities interaction](https://docs.uipath.com/activities/docs/about-the-mail-activities-pack)
 
 **8. Image Automation (basics)**
-* Image Activities Interaction
-* Citrix / RDP automation
+* [Image Activities Interaction](https://docs.uipath.com/studio/docs/image-activities)
+* [Citrix](https://docs.uipath.com/studio/docs/about-automating-citrix-technologies) / [RDP automation](https://docs.uipath.com/studio/docs/about-native-rdp-automation)
 
 **9. Project Architecture (Basics)**
-* Project lifecycle
+* [Project lifecycle](https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management)
 * Vendor best practice
-* State machine
-* Robotic Enterprice Framework
-* Logging practice / Activities
+* [State machine](https://docs.uipath.com/studio/docs/state-machines)
+* [Robotic Enterprice Framework](https://docs.uipath.com/studio/docs/robotic-enterprise-framework)
+* [Logging practice / Activities](https://docs.uipath.com/activities/docs/log-message)
 
 **10. UiPath Studio IDE (details)**
-* Package manager
-* Code Analyzer
-* Picture in Picture
-* Orchestrator API
+* [Package manager](https://docs.uipath.com/studio/docs/managing-activities-packages)
+* [Code Analyzer](https://docs.uipath.com/studio/docs/about-workflow-analyzer)
+* [Picture in Picture](https://docs.uipath.com/robot/docs/picture-in-picture)
+* [Orchestrator API](https://docs.uipath.com/orchestrator/v2016.2/docs/orchestrator-api-guide)
 
 **11. Programming in UiPath Studio**
-* Invoke code
-* Invoke method
-* Data Table Interactions
+* [Invoke code](https://docs.uipath.com/activities/docs/invoke-code)
+* [Invoke method](https://www.youtube.com/watch?v=KgMgUjyfUxU)
+* [Data Table Interactions]()
 
 **12. Orchestrator Process Management**
 * Process logs
