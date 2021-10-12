@@ -158,6 +158,8 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
 
 ## 🎉Credits
+⭐️This repository will be updated by users and based on the prodict updates, so I suggest you mark it with an "Star" to visit again
+
 __Become a contriburor!__
 >We are very grateful to all those who help to develop this roadmap ideas, as well as financially. This guide was developed entirely on the idea and we appreciate your support.
 >
