@@ -35,6 +35,7 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * [Input Activities](https://docs.uipath.com/activities/docs/input-dialog)
 * [Callout activities](https://docs.uipath.com/activities/docs/callout-scope)
 * [User events / Triggers](https://docs.uipath.com/activities/docs/user-events-ui-automation)
+* [Input methods](https://docs.uipath.com/studio/docs/input-methods)
 
 **5. Web automation (basics)**
 * [Browser Activities interaction](https://docs.uipath.com/activities/docs/web-browsing)
@@ -73,79 +74,78 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * [Data Table Interactions]()
 
 **12. Orchestrator Process Management**
-* Process logs
-* Process schedule
-* Process data storage
-* Attended / Unattended robot connection
-* Orchestrator Insights
+* [Process logs](https://docs.uipath.com/orchestrator/docs/managing-logs-in-orchestrator)
+* [Process schedule](https://docs.uipath.com/orchestrator/v2017.1/docs/managing-schedules)
+* [Process data storage]
+* [Attended / Unattended robot connection](https://docs.uipath.com/orchestrator/docs/connecting-robots-to-orchestrator)
+* [Orchestrator Insights](https://docs.uipath.com/insights/docs/about-insights)
 
 **13. Data Scraping**
-* Screen scraping
-* Metadata processing
+* [Screen scraping](https://docs.uipath.com/studio/docs/examples-of-using-output-or-screen-scraping-methods)
+* [Metadata processing]()
 
 **14. OCR Data Interaction**
-* OCR engines
-* Google Vision API interaction
-* OCR screen interactions
+* [OCR engines](https://smartbridge.com/comparing-ocr-engines-uipath/)
+* [Google Vision API interaction](https://www.youtube.com/watch?v=VVt-f279ZWI)
+* [OCR screen interactions](https://docs.uipath.com/studio/docs/ocr-activities)
 
 **15. Web Automation (details)**
-* Web driver
-* Robot JavaScript SDK
+* [Web driver](https://docs.uipath.com/studio/docs/about-the-webdriver-protocol)
+* [Robot JavaScript SDK](https://docs.uipath.com/robot/docs/about-the-robot-javascript-sdk)
 
 **16. Image Automation (details)**
-* RDP extention
-* Image accuracy interaction
+* [RDP extention](https://docs.uipath.com/studio/docs/extension-for-windows-remote-desktop)
+* [Image accuracy interaction](https://docs.uipath.com/activities/docs/image-found)
 
 **17. External Instruments**
-* Google Workspace
-* SAP Scripting
+* [Google Workspace](https://docs.uipath.com/activities/docs/about-google-gsuite-activities)
+* [SAP Scripting code](https://blogs.sap.com/2014/08/04/script-recording-playback-for-dummies/)
+* [SAP Scripting setup](https://docs.uipath.com/studio/v2018.4/docs/enabling-sap-gui-scripting)
 
 **18. Task Capture Instruments**
-* RDP extention
-* Image accuracy interaction
+
 
 **19. Web Requests**
-* HTTP/HTTPS
-* Orchestrator API
-* Swagger
+* [HTTP/HTTPS](https://docs.uipath.com/activities/docs/http-client)
+* [Swagger](https://swagger.io/tools/open-source/getting-started/)
 
 **20. Project Architecture (details)**
-* Digital Blueprint Creation
-* BPMN 2.0 flowchart process build
-* PDD / SDD best practice build
+* [Digital Blueprint creation](https://www.youtube.com/watch?v=cWD97tjhyzw)
+* [BPMN 2.0 flowchart process build](https://www.youtube.com/watch?v=BwkNceoybvA)
+* [PDD / SDD best practice build](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
 **21. Orchestrator Administration**
-* Authentification setup
-* User management
-* Installation & Disaster recovery model
-* License policy
+* [Authentification setup](https://docs.uipath.com/orchestrator/docs/about-authenticating)
+* [User management](https://docs.uipath.com/orchestrator/docs/managing-users)
+* [Installation & Disaster recovery model](https://docs.uipath.com/installation-and-upgrade/docs/disaster-recovery-activepassive)
+* [License policy](https://licensing.uipath.com/#:~:text=UiPath%20has%20the%20right%20to,execute%20simultaneously%20on%20that%20machine.)
 
 **22. Process Testing**
-* Types of testing
-* Test logic creation
-* API testing
-* Environment testing
-* Vendor tests best-practice
+* [Types of testing](https://www.perfecto.io/resources/types-of-testing)
+* [Test logic creation](https://www.youtube.com/watch?v=cLZNdAv2hPI)
+* [API testing](https://docs.uipath.com/studio/docs/api-test-automation)
+* Environment testing()
+* [Vendor tests best-practice](https://docs.uipath.com/test-suite/docs/test-automation-best-practices)
 
 **23. Database Interactions**
-* MySQL integration
-* Windows SQL integrations
-* Entity UiPath Integrations
+* [MySQL integration](https://www.cdata.com/kb/tech/mysql-odbc-uipath.rst)
+* [Entity UiPath integration](https://docs.uipath.com/data-service/docs/using-entities-in-projects)
 
 **24. CI/CD**
-* Jenkins
-* Azure DevOps
+* [CI & CD Theory](https://www.whitesourcesoftware.com/resources/blog/all-about-ci-cd/)
+* [Jenkins](https://plugins.jenkins.io/uipath-automation-package/)
+* [Azure DevOps](https://www.youtube.com/watch?v=__OsNM0CNxg&list=PLSJqtmF3sHEeBWByGYtwJyBZyWwxWEEKQ)
 
 **25. Reporting Tools Integration**
-* Kibana
-* Tableau
-* Power BI
-* DataIKU
+* [Kibana (1)](https://marketplace.uipath.com/listings/generic_kibana_dashboard-104d35) [(2)](https://forum.uipath.com/t/kibana-orchestrator-integration-how-to/107967)
+* [Tableau](https://www.youtube.com/watch?v=S3Qk0Ba-dJU)
+* [Power BI](https://marketplace.uipath.com/listings/power-bi-jobs-and-queues-dashboards/questions)
+* [DataIKU](https://www.dataiku.com/product/plugins/uipath-orchestrator/)
 
 **26. Customize Studio**
-* Custom activity from workflow
-* Custom activity via Visual Studio
-* Custom Code Analyzer Rule
+* [Custom activity from workflow]()
+* [Custom activity via Visual Studio](https://docs.uipath.com/activities/docs/creating-a-custom-activity)
+* [Custom Code Analyzer Rule](https://docs.uipath.com/studio/docs/building-custom-rules)
 
 ## ✏️Contribution
 We support any ideas and additions! Please study [contribution guidelines](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) to standardize work with roadmap.
