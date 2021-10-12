@@ -1,4 +1,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Contributors](https://opencollective.com/rpa_developer_roadmap/tiers/say-thank-you/badge.svg?label=Contributors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
+[![Sponsors](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
+
 # RPA DEVELOPER ROADMAP IN 2021 (UIPath) 🤖
 
 **Read this in:
@@ -157,11 +160,11 @@ We support any ideas and additions! Please study [contribution guidelines](https
 Become a contriburor!
 >We are very grateful to all those who help to develop this roadmap ideas, as well as financially. This guide was developed entirely on the idea and we appreciate your support.
 >
-![Thank](https://opencollective.com/rpa_developer_roadmap/tiers/say-thank-you.svg?avatarHeight=36?width=600?limit=7)
+[![Thank](https://opencollective.com/rpa_developer_roadmap/tiers/say-thank-you.svg?avatarHeight=36?width=600?limit=7)](https://opencollective.com/rpa_developer_roadmap#support)
 
 Become a sponsor!
 >Regular developers, who initiated this idea, carry out a review of the pool of requests, as well as independently complement this guide and we are grateful for your long-term investment.
 >
-![Sponsor](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor.svg?avatarHeight=36?width=600?limit=7)
+[![Sponsor](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor.svg?avatarHeight=36?width=600?limit=7)](https://opencollective.com/rpa_developer_roadmap#support)
 ## 📎License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
