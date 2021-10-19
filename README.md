@@ -3,7 +3,7 @@
 [![Sponsors](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
 
 # RPA DEVELOPER ROADMAP (UIPath) 🤖
->Roadmap to becoming a RPA developer in 2021
+>Roadmap to become a RPA developer in 2021
 
 
 ## ❗️Disclaimer
@@ -153,7 +153,7 @@ This roadmap was created based on the style of [this project](https://github.com
 * [Custom Code Analyzer Rule](https://docs.uipath.com/studio/docs/building-custom-rules)
 
 ## ✏️Contribution
-We support any ideas and additions! Please study [contribution guidelines](CONTRIBUTION.md) to standardize work with roadmap.
+**We support any ideas and additions!** Please study [contribution guidelines](CONTRIBUTION.md) to standardize work with roadmap.
 
 ## 🎉Credits
 :star: This repository will be updated by users and based on the prodict updates, so I suggest you mark it with an "Star" to visit again
