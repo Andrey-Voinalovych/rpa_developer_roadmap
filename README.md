@@ -25,8 +25,8 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * Algorithms and data structures
 
 **2. UiPath Studio IDE (basics)**
-* Logging
-* Workflow types
+* [Logging](https://docs.uipath.com/robot/docs/logging-levels)
+* [Workflow types](https://docs.uipath.com/studio/docs/workflow-design)
 * [Basic debug features](https://docs.uipath.com/studio/docs/about-debugging)
 * [Process building logic](https://docs.uipath.com/studio/docs/creating-basic-process)
 * [Variables & Activities Interaction](https://docs.uipath.com/studio/docs/types-of-variables)
@@ -34,7 +34,7 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 
 **3. Selectors**
 * [Recording](https://docs.uipath.com/studio/docs/about-recording)
-* [Object Repository](https://docs.uipath.com/studio/docs/about-object-repository) & UI Libraries
+* [Object Repository](https://docs.uipath.com/studio/docs/about-object-repository) & [UI Libraries](https://docs.uipath.com/studio/docs/reusing-objects-ui-libraries)
 * [Win32 / Web selectors logic](https://docs.uipath.com/studio/docs/about-selectors)
 * [UiExplorer & UIFramework](https://docs.uipath.com/studio/docs/uipath-explorer)
 * [Dynamic selectors](https://docs.uipath.com/studio/docs/dynamic-selectors)
@@ -65,7 +65,7 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 
 **9. Project Architecture (Basics)**
 * [Project lifecycle](https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management)
-* Vendor best practice
+* [Vendor best practice](https://docs.uipath.com/studio/docs/design-best-practices)
 * [State machine](https://docs.uipath.com/studio/docs/state-machines)
 * [Robotic Enterprice Framework](https://docs.uipath.com/studio/docs/robotic-enterprise-framework)
 * [Logging practice / Activities](https://docs.uipath.com/activities/docs/log-message)
@@ -79,18 +79,18 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 **11. Programming in UiPath Studio**
 * [Invoke code](https://docs.uipath.com/activities/docs/invoke-code)
 * [Invoke method](https://www.youtube.com/watch?v=KgMgUjyfUxU)
-* [Data Table Interactions]()
+* [Data Table Interactions](https://chercher.tech/uipath/data-table-rpa-uipath)
 
 **12. Orchestrator Process Management**
 * [Process logs](https://docs.uipath.com/orchestrator/docs/managing-logs-in-orchestrator)
 * [Process schedule](https://docs.uipath.com/orchestrator/v2017.1/docs/managing-schedules)
-* [Process data storage]
+* Process data storage: [Buckets](https://docs.uipath.com/orchestrator/docs/managing-storage-buckets)/[Assets](https://docs.uipath.com/orchestrator/docs/about-assets)
 * [Attended / Unattended robot connection](https://docs.uipath.com/orchestrator/docs/connecting-robots-to-orchestrator)
 * [Orchestrator Insights](https://docs.uipath.com/insights/docs/about-insights)
 
 **13. Data Scraping**
 * [Screen scraping](https://docs.uipath.com/studio/docs/examples-of-using-output-or-screen-scraping-methods)
-* [Metadata processing]()
+* [Metadata processing](https://marketplace.uipath.com/listings/file-metadata-reader)
 
 **14. OCR Data Interaction**
 * [OCR engines](https://smartbridge.com/comparing-ocr-engines-uipath/)
@@ -107,11 +107,10 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 
 **17. External Instruments**
 * [Google Workspace](https://docs.uipath.com/activities/docs/about-google-gsuite-activities)
-* [SAP Scripting code](https://blogs.sap.com/2014/08/04/script-recording-playback-for-dummies/)
+* [SAP Scripting Coding](https://blogs.sap.com/2014/08/04/script-recording-playback-for-dummies/)
 * [SAP Scripting setup](https://docs.uipath.com/studio/v2018.4/docs/enabling-sap-gui-scripting)
 
-**18. Task Capture Instruments**
-
+**18.** [**Task Capture Instruments**](https://docs.uipath.com/task-capture/docs/introduction)
 
 **19. Web Requests**
 * [HTTP/HTTPS](https://docs.uipath.com/activities/docs/http-client)
@@ -151,12 +150,9 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 * [DataIKU](https://www.dataiku.com/product/plugins/uipath-orchestrator/)
 
 **26. Customize Studio**
-* [Custom activity from workflow]()
+* [Custom activity from workflow](https://forum.uipath.com/t/convert-workflow-to-custom-activity/126906)
 * [Custom activity via Visual Studio](https://docs.uipath.com/activities/docs/creating-a-custom-activity)
 * [Custom Code Analyzer Rule](https://docs.uipath.com/studio/docs/building-custom-rules)
-
-## 📑Certification
-
 
 ## ✏️Contribution
 We support any ideas and additions! Please study [contribution guidelines](CONTRIBUTION.md) to standardize work with roadmap.
