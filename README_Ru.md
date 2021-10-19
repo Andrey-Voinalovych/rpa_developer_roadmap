@@ -5,7 +5,8 @@
 # RPA DEVELOPER ROADMAP (UIPath) 🤖
 >Roadmap для изучения RPA 
 
-Прочитать на:
+Read this on:
+
 [English](/README.md)
 
 ## ❗️Дисклеймер
