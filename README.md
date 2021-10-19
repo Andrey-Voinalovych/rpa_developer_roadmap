@@ -5,9 +5,6 @@
 # RPA DEVELOPER ROADMAP (UIPath) 🤖
 >Roadmap to becoming a RPA developer in 2021
 
-**Read this in:
-[Russian](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/README_Ru.md)**
-
 
 ## ❗️Disclaimer
 > This roadmap is designed to structure the knowledge and sequence of studying the functions and possibilities of RPA technology between professionals in order to make it more convenient for newcomers to study the technology.
