@@ -9,6 +9,9 @@
 ## ❗️Disclaimer
 > This roadmap is designed to structure the knowledge and sequence of studying the functions and possibilities of RPA technology between professionals in order to make it more convenient for newcomers to study the technology.
 The sequence and priority of these blocks is a vision of multiple developers of this domain so if you see a discrepancy or a need for a supplement - a [contriburion](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) section especially for you.
+
+This roadmap was created based on the style of [this project](https://github.com/adam-golab/react-developer-roadmap). I am very grateful [Adam Gołąb](https://github.com/adam-golab) for his work!
+
 ## Roadmap
 ![RoadMap drawio](/Roadmap_EN.png)
 
