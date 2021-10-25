@@ -20,6 +20,7 @@
 
 ## 📒Ресурсы
 **1. General Development Skills**
+* [HTML / CSS Basics](https://www.w3schools.com/html/html_basic.asp)
 * VB.NET / C# Basics
 * GIT - version control (GitHub, GitLab)
 * [LINQ Basics](https://www.tutorialsteacher.com/linq)
