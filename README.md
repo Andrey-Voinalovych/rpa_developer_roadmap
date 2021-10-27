@@ -1,6 +1,5 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Contributors](https://opencollective.com/rpa_developer_roadmap/tiers/say-thank-you/badge.svg?label=Contributors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
-[![Sponsors](https://opencollective.com/rpa_developer_roadmap/tiers/sponsor/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/rpa_developer_roadmap#support)
+[![donate](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://www.paypal.com/donate/?hosted_button_id=W5QM4EYNKPWGU)
+
 
 # RPA DEVELOPER ROADMAP (UIPath) 🤖
 >Roadmap to become a RPA developer in 2021
