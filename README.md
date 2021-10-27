@@ -1,5 +1,6 @@
 [![donate](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://www.paypal.com/donate/?hosted_button_id=W5QM4EYNKPWGU)
-
+![last commit](https://img.shields.io/github/last-commit/Andrey-Voinalovych/rpa_developer_roadmap)
+![contributors](https://img.shields.io/github/contributors/Andrey-Voinalovych/rpa_developer_roadmap?color=br)
 
 # RPA DEVELOPER ROADMAP (UIPath) 🤖
 >Roadmap to become a RPA developer in 2021
