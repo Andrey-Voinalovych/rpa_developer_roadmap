@@ -18,7 +18,7 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 This roadmap was created based on the style of [this project](https://github.com/adam-golab/react-developer-roadmap). I am very grateful [Adam Gołąb](https://github.com/adam-golab) for his work!
 
 ## Roadmap
-[![RoadMap drawio](/Roadmap_EN.png)](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/master/Roadmap_EN_Dark.png)
+[![RoadMap drawio](/Roadmap_EN.png)](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/master/Roadmap_EN.png)
 
 ## 📒Resources
 **1. General Development Skills**
