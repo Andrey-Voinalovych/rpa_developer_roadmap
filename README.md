@@ -9,7 +9,7 @@ Read this on:
 
 [Russian](/README_Ru.md)
 
-🌑[Dark Version](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/Roadmap_EN_Dark.png)
+🌑[Dark Version](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/master/Roadmap_EN_Dark.png)
 
 ## ❗️Disclaimer
 > This roadmap is designed to structure the knowledge and sequence of studying the functions and possibilities of RPA technology between professionals in order to make it more convenient for newcomers to study the technology.
