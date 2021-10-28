@@ -160,7 +160,7 @@ This roadmap was created based on the style of [this project](https://github.com
 **We support any ideas and additions!** Please study [contribution guidelines](CONTRIBUTION.md) to standardize work with roadmap.
 
 ## 🎉Credits
-:star: This repository will be updated by users and based on the prodict updates, so I suggest you mark it with an "Star" to visit again
+:star: This repository will be updated by users and based on the product updates, so I suggest you mark it with an "Star" to visit again
 
 __Become a contriburor!__
 >We are very grateful to all those who help to develop this roadmap ideas, as well as financially. This guide was developed entirely on the idea and we appreciate your support.
