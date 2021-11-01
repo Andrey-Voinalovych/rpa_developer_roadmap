@@ -28,7 +28,7 @@
 * [LINQ Basics](https://www.tutorialsteacher.com/linq)
 * Алгоритмы и структуры данных
 
-**2. UiPath Studio IDE (basics)**
+**2. UiPath Studio IDE (основы)**
 * [Логирование](https://docs.uipath.com/robot/docs/logging-levels)
 * [Типы Workflow](https://docs.uipath.com/studio/docs/workflow-design)
 * [Основные инструменты отладки](https://docs.uipath.com/studio/docs/about-debugging)
@@ -78,7 +78,6 @@
 * [Package manager](https://docs.uipath.com/studio/docs/managing-activities-packages)
 * [Code Analyzer](https://docs.uipath.com/studio/docs/about-workflow-analyzer)
 * [Picture in Picture](https://docs.uipath.com/robot/docs/picture-in-picture)
-* [Orchestrator API](https://docs.uipath.com/orchestrator/v2016.2/docs/orchestrator-api-guide)
 
 **11. Программирование в UiPath Studio**
 * [Invoke code](https://docs.uipath.com/activities/docs/invoke-code)
@@ -91,6 +90,7 @@
 * Данные для работы проекта: [Buckets](https://docs.uipath.com/orchestrator/docs/managing-storage-buckets)/[Assets](https://docs.uipath.com/orchestrator/docs/about-assets)
 * [Attended / Unattended соединение робота](https://docs.uipath.com/orchestrator/docs/connecting-robots-to-orchestrator)
 * [Orchestrator Insights](https://docs.uipath.com/insights/docs/about-insights)
+* [Orchestrator API](https://docs.uipath.com/orchestrator/v2016.2/docs/orchestrator-api-guide)
 
 **13. Data Scraping**
 * [Screen scraping](https://docs.uipath.com/studio/docs/examples-of-using-output-or-screen-scraping-methods)
