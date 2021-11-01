@@ -78,7 +78,6 @@ This roadmap was created based on the style of [this project](https://github.com
 * [Package manager](https://docs.uipath.com/studio/docs/managing-activities-packages)
 * [Code Analyzer](https://docs.uipath.com/studio/docs/about-workflow-analyzer)
 * [Picture in Picture](https://docs.uipath.com/robot/docs/picture-in-picture)
-* [Orchestrator API](https://docs.uipath.com/orchestrator/v2016.2/docs/orchestrator-api-guide)
 
 **11. Programming in UiPath Studio**
 * [Invoke code](https://docs.uipath.com/activities/docs/invoke-code)
@@ -91,6 +90,7 @@ This roadmap was created based on the style of [this project](https://github.com
 * Process data storage: [Buckets](https://docs.uipath.com/orchestrator/docs/managing-storage-buckets)/[Assets](https://docs.uipath.com/orchestrator/docs/about-assets)
 * [Attended / Unattended robot connection](https://docs.uipath.com/orchestrator/docs/connecting-robots-to-orchestrator)
 * [Orchestrator Insights](https://docs.uipath.com/insights/docs/about-insights)
+* [Orchestrator API](https://docs.uipath.com/orchestrator/v2016.2/docs/orchestrator-api-guide)
 
 **13. Data Scraping**
 * [Screen scraping](https://docs.uipath.com/studio/docs/examples-of-using-output-or-screen-scraping-methods)
