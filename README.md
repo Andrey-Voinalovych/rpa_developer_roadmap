@@ -27,6 +27,7 @@ This roadmap was created based on the style of [this project](https://github.com
 * GIT - version control (GitHub, GitLab)
 * [LINQ Basics](https://www.tutorialsteacher.com/linq)
 * [Algorithms and data structures](https://www.programiz.com/dsa)  
+* [Object Oriented Programming](https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/)
 
 **2. UiPath Studio IDE (basics)**
 * [Logging](https://docs.uipath.com/robot/docs/logging-levels)
