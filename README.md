@@ -26,6 +26,7 @@ This roadmap was created based on the style of [this project](https://github.com
 * [VB.NET](https://www.tutorialspoint.com/vb.net/index.htm) / [C# Basics](https://www.w3schools.com/cs/index.php)
 * GIT - version control (GitHub, GitLab)
 * [LINQ Basics](https://www.tutorialsteacher.com/linq)
+* [SQL Basics](https://www.w3schools.com/sql/sql_intro.asp)
 * [Algorithms and data structures](https://www.programiz.com/dsa)  
 * [Object Oriented Programming](https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/)
 
