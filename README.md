@@ -17,9 +17,9 @@ The sequence and priority of these blocks is a vision of multiple developers of 
 
 This roadmap was created based on the style of [this project](https://github.com/adam-golab/react-developer-roadmap). I am very grateful [Adam Gołąb](https://github.com/adam-golab) for his work!
 ## 👏🏻Our community sponsors:
-The following experts helped to develop this project in the community of developers to increase its popularity.
+The following experts helped to develop this project in the community of developers to increase its popularity:
 
-[Vajrang](https://github.com/vajrang-b)
+**[Vajrang](https://github.com/vajrang-b)**
 
 We are very grateful for your help and hope for further cooperation!
 
