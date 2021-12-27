@@ -17,6 +17,17 @@
 
 Эта дорожная карта была создана на основе стиля [данного проекта](https://github.com/adam-golab/react-developer-roadmap). Я очень благодарен [Adam Gołąb](https://github.com/adam-golab) за его огромную работу!
 
+## 👏🏻Спонсоры со стороны сообщества:
+Ниже перечислены те специалисты, которые помогали развитию данного проекта в комьюнити разработчиков для увеличения его популярности:
+
+**[Vajrang](https://www.linkedin.com/in/vajrang-b/)**
+**[Nuno Durão](https://www.linkedin.com/in/nuno-durao/)**
+**[Vibhor Shrivastava](https://www.linkedin.com/in/vibhorshri/)**
+**[Stefan Schnell](https://www.linkedin.com/in/stefan-schnell/)**
+
+Мы очень благодарны вам за помощь и надеюсь на дальнейшее взаимодействие!
+
+
 ## Roadmap
 [![RoadMap drawio](/Roadmap_EN.png)](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/master/Roadmap_EN.png)
 
