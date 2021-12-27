@@ -19,7 +19,10 @@ This roadmap was created based on the style of [this project](https://github.com
 ## 👏🏻Our community sponsors:
 The following experts helped to develop this project in the community of developers to increase its popularity:
 
-**[Vajrang](https://github.com/vajrang-b)**
+**[Vajrang](https://www.linkedin.com/in/vajrang-b/)**
+**[Nuno Durão](https://www.linkedin.com/in/nuno-durao/)**
+**[Vibhor Shrivastava](https://www.linkedin.com/in/vibhorshri/)**
+**[Stefan Schnell](https://www.linkedin.com/in/stefan-schnell/)**
 
 We are very grateful for your help and hope for further cooperation!
 
