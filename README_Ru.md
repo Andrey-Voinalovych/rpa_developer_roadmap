@@ -21,8 +21,11 @@
 Ниже перечислены те специалисты, которые помогали развитию данного проекта в комьюнити разработчиков для увеличения его популярности:
 
 **[Vajrang](https://www.linkedin.com/in/vajrang-b/)**
+
 **[Nuno Durão](https://www.linkedin.com/in/nuno-durao/)**
+
 **[Vibhor Shrivastava](https://www.linkedin.com/in/vibhorshri/)**
+
 **[Stefan Schnell](https://www.linkedin.com/in/stefan-schnell/)**
 
 Мы очень благодарны вам за помощь и надеюсь на дальнейшее взаимодействие!
