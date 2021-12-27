@@ -16,6 +16,13 @@ Read this on:
 The sequence and priority of these blocks is a vision of multiple developers of this domain so if you see a discrepancy or a need for a supplement - a [contriburion](https://github.com/Andrey-Voinalovych/rpa_developer_roadmap_2021/blob/main/CONTRIBUTION.md) section especially for you.
 
 This roadmap was created based on the style of [this project](https://github.com/adam-golab/react-developer-roadmap). I am very grateful [Adam Gołąb](https://github.com/adam-golab) for his work!
+## 👏🏻Our community sponsors:
+The following experts helped to develop this project in the community of developers to increase its popularity.
+
+[Vajrang](https://github.com/vajrang-b)
+
+We are very grateful for your help and hope for further cooperation!
+
 
 ## Roadmap
 [![RoadMap drawio](/Roadmap_EN.png)](https://raw.githubusercontent.com/Andrey-Voinalovych/rpa_developer_roadmap/master/Roadmap_EN.png)
